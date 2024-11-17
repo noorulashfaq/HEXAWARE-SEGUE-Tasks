@@ -1,0 +1,33 @@
+1. CalcPrice
+Get price and quantity from the user, calculate the total price and discount 10% if the total exceeds 50000.
+Include 18% GST to the final amount and display to the user
+
+---------------------------------------------
+
+2. JoyToys
+As a member of a team that is developing toys for JoyToys, Inc., you have been assigned the task of creating a bike module 
+that accepts and displays bike details. Declare the Bike class and its member functions. The member function that accepts bike details 
+should display the message “Accepting Bike Details”. Similarly, the member function to display bike details on the screen should 
+display the message “Displaying Bike Details
+
+---------------------------------------------
+ 
+3. Create classes employee and manager. An employee will have attributes such as id , name , salary, dob. A manager extends from an employee 
+he will have additionally properties such as onsite allowance and bonus. Compute the salary of an employee and manager
+
+---------------------------------------------
+ 
+4. John a software developer in Zed Axis Technology needs to check how many times a function is called. For the same, he has been 
+asked to create the function called “CountFunction”. Help John to create this function
+
+---------------------------------------------
+ 
+5. Create a TimePeriod class that stores a time period. Internally the class stores the time in seconds, but a property named Hours 
+enables a client to specify a time in hours. The accessors for the Hours property perform the conversion between hours and seconds
+
+---------------------------------------------
+ 
+6. Furniture and Fittings Company (FFC) manufactures domestic furniture. Customers provide their specifications to the company for the 
+furniture they want. To cope with the received customer’s orders, FFC decides to computerize the order-processing system. 
+The system should accept the values of furniture items, such as a bookshelf and a chair. You need to develop the hierarchy of these items
+ 

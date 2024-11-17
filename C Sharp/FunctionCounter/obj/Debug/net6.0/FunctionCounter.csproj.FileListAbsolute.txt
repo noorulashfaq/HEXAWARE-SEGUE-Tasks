@@ -1,0 +1,15 @@
+D:\Hexaware\Segue\3. C# Task\FunctionCounter\bin\Debug\net6.0\FunctionCounter.exe
+D:\Hexaware\Segue\3. C# Task\FunctionCounter\bin\Debug\net6.0\FunctionCounter.deps.json
+D:\Hexaware\Segue\3. C# Task\FunctionCounter\bin\Debug\net6.0\FunctionCounter.runtimeconfig.json
+D:\Hexaware\Segue\3. C# Task\FunctionCounter\bin\Debug\net6.0\FunctionCounter.dll
+D:\Hexaware\Segue\3. C# Task\FunctionCounter\bin\Debug\net6.0\FunctionCounter.pdb
+D:\Hexaware\Segue\3. C# Task\FunctionCounter\obj\Debug\net6.0\FunctionCounter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hexaware\Segue\3. C# Task\FunctionCounter\obj\Debug\net6.0\FunctionCounter.AssemblyInfoInputs.cache
+D:\Hexaware\Segue\3. C# Task\FunctionCounter\obj\Debug\net6.0\FunctionCounter.AssemblyInfo.cs
+D:\Hexaware\Segue\3. C# Task\FunctionCounter\obj\Debug\net6.0\FunctionCounter.csproj.CoreCompileInputs.cache
+D:\Hexaware\Segue\3. C# Task\FunctionCounter\obj\Debug\net6.0\FunctionCounter.sourcelink.json
+D:\Hexaware\Segue\3. C# Task\FunctionCounter\obj\Debug\net6.0\FunctionCounter.dll
+D:\Hexaware\Segue\3. C# Task\FunctionCounter\obj\Debug\net6.0\refint\FunctionCounter.dll
+D:\Hexaware\Segue\3. C# Task\FunctionCounter\obj\Debug\net6.0\FunctionCounter.pdb
+D:\Hexaware\Segue\3. C# Task\FunctionCounter\obj\Debug\net6.0\FunctionCounter.genruntimeconfig.cache
+D:\Hexaware\Segue\3. C# Task\FunctionCounter\obj\Debug\net6.0\ref\FunctionCounter.dll

@@ -1,0 +1,30 @@
+D:\Hexaware\Segue\3. Task\JoyToys\obj\Debug\net6.0\JoyToys.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hexaware\Segue\3. Task\JoyToys\obj\Debug\net6.0\JoyToys.AssemblyInfoInputs.cache
+D:\Hexaware\Segue\3. Task\JoyToys\obj\Debug\net6.0\JoyToys.AssemblyInfo.cs
+D:\Hexaware\Segue\3. Task\JoyToys\obj\Debug\net6.0\JoyToys.csproj.CoreCompileInputs.cache
+D:\Hexaware\Segue\3. Task\JoyToys\obj\Debug\net6.0\JoyToys.sourcelink.json
+D:\Hexaware\Segue\3. Task\JoyToys\bin\Debug\net6.0\JoyToys.exe
+D:\Hexaware\Segue\3. Task\JoyToys\bin\Debug\net6.0\JoyToys.deps.json
+D:\Hexaware\Segue\3. Task\JoyToys\bin\Debug\net6.0\JoyToys.runtimeconfig.json
+D:\Hexaware\Segue\3. Task\JoyToys\bin\Debug\net6.0\JoyToys.dll
+D:\Hexaware\Segue\3. Task\JoyToys\bin\Debug\net6.0\JoyToys.pdb
+D:\Hexaware\Segue\3. Task\JoyToys\obj\Debug\net6.0\JoyToys.dll
+D:\Hexaware\Segue\3. Task\JoyToys\obj\Debug\net6.0\refint\JoyToys.dll
+D:\Hexaware\Segue\3. Task\JoyToys\obj\Debug\net6.0\JoyToys.pdb
+D:\Hexaware\Segue\3. Task\JoyToys\obj\Debug\net6.0\JoyToys.genruntimeconfig.cache
+D:\Hexaware\Segue\3. Task\JoyToys\obj\Debug\net6.0\ref\JoyToys.dll
+D:\Hexaware\Segue\3. C# Task\JoyToys\bin\Debug\net6.0\JoyToys.exe
+D:\Hexaware\Segue\3. C# Task\JoyToys\bin\Debug\net6.0\JoyToys.deps.json
+D:\Hexaware\Segue\3. C# Task\JoyToys\bin\Debug\net6.0\JoyToys.runtimeconfig.json
+D:\Hexaware\Segue\3. C# Task\JoyToys\bin\Debug\net6.0\JoyToys.dll
+D:\Hexaware\Segue\3. C# Task\JoyToys\bin\Debug\net6.0\JoyToys.pdb
+D:\Hexaware\Segue\3. C# Task\JoyToys\obj\Debug\net6.0\JoyToys.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hexaware\Segue\3. C# Task\JoyToys\obj\Debug\net6.0\JoyToys.AssemblyInfoInputs.cache
+D:\Hexaware\Segue\3. C# Task\JoyToys\obj\Debug\net6.0\JoyToys.AssemblyInfo.cs
+D:\Hexaware\Segue\3. C# Task\JoyToys\obj\Debug\net6.0\JoyToys.csproj.CoreCompileInputs.cache
+D:\Hexaware\Segue\3. C# Task\JoyToys\obj\Debug\net6.0\JoyToys.sourcelink.json
+D:\Hexaware\Segue\3. C# Task\JoyToys\obj\Debug\net6.0\JoyToys.dll
+D:\Hexaware\Segue\3. C# Task\JoyToys\obj\Debug\net6.0\refint\JoyToys.dll
+D:\Hexaware\Segue\3. C# Task\JoyToys\obj\Debug\net6.0\JoyToys.pdb
+D:\Hexaware\Segue\3. C# Task\JoyToys\obj\Debug\net6.0\JoyToys.genruntimeconfig.cache
+D:\Hexaware\Segue\3. C# Task\JoyToys\obj\Debug\net6.0\ref\JoyToys.dll

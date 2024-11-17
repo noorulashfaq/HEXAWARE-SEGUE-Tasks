@@ -1,0 +1,15 @@
+D:\Hexaware\Segue\3. Task\CalcPrice\bin\Debug\net6.0\CalcPrice.exe
+D:\Hexaware\Segue\3. Task\CalcPrice\bin\Debug\net6.0\CalcPrice.deps.json
+D:\Hexaware\Segue\3. Task\CalcPrice\bin\Debug\net6.0\CalcPrice.runtimeconfig.json
+D:\Hexaware\Segue\3. Task\CalcPrice\bin\Debug\net6.0\CalcPrice.dll
+D:\Hexaware\Segue\3. Task\CalcPrice\bin\Debug\net6.0\CalcPrice.pdb
+D:\Hexaware\Segue\3. Task\CalcPrice\obj\Debug\net6.0\CalcPrice.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hexaware\Segue\3. Task\CalcPrice\obj\Debug\net6.0\CalcPrice.AssemblyInfoInputs.cache
+D:\Hexaware\Segue\3. Task\CalcPrice\obj\Debug\net6.0\CalcPrice.AssemblyInfo.cs
+D:\Hexaware\Segue\3. Task\CalcPrice\obj\Debug\net6.0\CalcPrice.csproj.CoreCompileInputs.cache
+D:\Hexaware\Segue\3. Task\CalcPrice\obj\Debug\net6.0\CalcPrice.sourcelink.json
+D:\Hexaware\Segue\3. Task\CalcPrice\obj\Debug\net6.0\CalcPrice.dll
+D:\Hexaware\Segue\3. Task\CalcPrice\obj\Debug\net6.0\refint\CalcPrice.dll
+D:\Hexaware\Segue\3. Task\CalcPrice\obj\Debug\net6.0\CalcPrice.pdb
+D:\Hexaware\Segue\3. Task\CalcPrice\obj\Debug\net6.0\CalcPrice.genruntimeconfig.cache
+D:\Hexaware\Segue\3. Task\CalcPrice\obj\Debug\net6.0\ref\CalcPrice.dll

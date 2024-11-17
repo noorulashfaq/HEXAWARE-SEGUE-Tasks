@@ -1,0 +1,52 @@
+Date: 05 Nov 2024
+
+    Task 1: DB Design, Select, Where
+    Create Following Tables in SQL
+        - Book(ISBN, Title, Genre, PublicationDate, and Price)
+        - Author(AuthorId, Name)
+        - Publisher(PublisherId,Name,Address,Contact)
+        - User(userId, email,ContactNumber)
+        - OrderTable(OrderId, OrderDate, TotalAmount , Status)
+        - Create an Associative table for OrderDetails
+
+    1. Write a query to list all books where Price is greater than 20
+    2. List all books where PublisherID is 2
+    3. Find all orders where Status is "Pending"
+    4. Change the price of the book with ISBN = your choice to 300
+    5. Increase the price of all books in the "Technology" genre by 10%
+    6. DELETE FROM Book WHERE ISBN = Your choice
+    7. Get details of books published on or after January 1, 2022
+    8. List all books where the genre is not "Science"
+    9. List all customers with contact numbers that are not NULL
+
+Date: 07 Nov 2024
+
+    Task 2: Functions
+    10. Count the total number of books in the bookstore.
+    11. Find the average price of all books in the "Technology" genre
+    12. Get the total revenue generated from all orders
+    13. Find the minimum and maximum price of books in the "Fiction" genre
+    14. Count the number of orders for each status (Pending, Shipped, Delivered)
+    15. Get the month when each order was placed
+    16. Calculate the total revenue for each month
+    17. List all books along with their publisher names
+    18. Retrieve all orders along with the names of the customers who placed them
+    19. Find all books that have been ordered at least once
+    20. Retrieve a list of authors along with the titles of books they have written
+    21. List all books along with their publisher names, including books with no publisher information
+    22. Retrieve all orders with their details, including orders with no items
+    23. Find all pairs of customers from the same city
+
+Date: 08 Nov 2024
+
+    Task 3: Subqueries
+    24. Find the title of the book with the highest price.
+    25. List all authors who have written books in the "your choice" genre
+    26. Find the titles of books that have never been ordered
+    27. Get the names of customers who have placed orders totaling more than ‘amount as per values you have in database’
+    28. List all books that cost more than the average price of all books
+    29. Retrieve books published by the publisher with the fewest books
+    30. Find the average quantity of books per order
+    31. Display each book's title and its rank by price (highest to lowest)
+    32. Find customers who have placed more orders than the average orders per customer
+    33. List all books along with the number of orders Use a correlated subquery to count orders for each book

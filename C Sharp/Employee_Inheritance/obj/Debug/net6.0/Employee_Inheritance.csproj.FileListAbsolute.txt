@@ -1,0 +1,15 @@
+D:\Hexaware\Segue\3. C# Task\Employee_Inheritance\obj\Debug\net6.0\Employee_Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hexaware\Segue\3. C# Task\Employee_Inheritance\obj\Debug\net6.0\Employee_Inheritance.AssemblyInfoInputs.cache
+D:\Hexaware\Segue\3. C# Task\Employee_Inheritance\obj\Debug\net6.0\Employee_Inheritance.AssemblyInfo.cs
+D:\Hexaware\Segue\3. C# Task\Employee_Inheritance\obj\Debug\net6.0\Employee_Inheritance.csproj.CoreCompileInputs.cache
+D:\Hexaware\Segue\3. C# Task\Employee_Inheritance\obj\Debug\net6.0\Employee_Inheritance.sourcelink.json
+D:\Hexaware\Segue\3. C# Task\Employee_Inheritance\bin\Debug\net6.0\Employee_Inheritance.exe
+D:\Hexaware\Segue\3. C# Task\Employee_Inheritance\bin\Debug\net6.0\Employee_Inheritance.deps.json
+D:\Hexaware\Segue\3. C# Task\Employee_Inheritance\bin\Debug\net6.0\Employee_Inheritance.runtimeconfig.json
+D:\Hexaware\Segue\3. C# Task\Employee_Inheritance\bin\Debug\net6.0\Employee_Inheritance.dll
+D:\Hexaware\Segue\3. C# Task\Employee_Inheritance\bin\Debug\net6.0\Employee_Inheritance.pdb
+D:\Hexaware\Segue\3. C# Task\Employee_Inheritance\obj\Debug\net6.0\Employee_Inheritance.dll
+D:\Hexaware\Segue\3. C# Task\Employee_Inheritance\obj\Debug\net6.0\refint\Employee_Inheritance.dll
+D:\Hexaware\Segue\3. C# Task\Employee_Inheritance\obj\Debug\net6.0\Employee_Inheritance.pdb
+D:\Hexaware\Segue\3. C# Task\Employee_Inheritance\obj\Debug\net6.0\Employee_Inheritance.genruntimeconfig.cache
+D:\Hexaware\Segue\3. C# Task\Employee_Inheritance\obj\Debug\net6.0\ref\Employee_Inheritance.dll

@@ -1,0 +1,15 @@
+D:\Hexaware\Segue\3. C# Task\Furniture_Inheritance\obj\Debug\net6.0\Furniture_Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hexaware\Segue\3. C# Task\Furniture_Inheritance\obj\Debug\net6.0\Furniture_Inheritance.AssemblyInfoInputs.cache
+D:\Hexaware\Segue\3. C# Task\Furniture_Inheritance\obj\Debug\net6.0\Furniture_Inheritance.AssemblyInfo.cs
+D:\Hexaware\Segue\3. C# Task\Furniture_Inheritance\obj\Debug\net6.0\Furniture_Inheritance.csproj.CoreCompileInputs.cache
+D:\Hexaware\Segue\3. C# Task\Furniture_Inheritance\obj\Debug\net6.0\Furniture_Inheritance.sourcelink.json
+D:\Hexaware\Segue\3. C# Task\Furniture_Inheritance\bin\Debug\net6.0\Furniture_Inheritance.exe
+D:\Hexaware\Segue\3. C# Task\Furniture_Inheritance\bin\Debug\net6.0\Furniture_Inheritance.deps.json
+D:\Hexaware\Segue\3. C# Task\Furniture_Inheritance\bin\Debug\net6.0\Furniture_Inheritance.runtimeconfig.json
+D:\Hexaware\Segue\3. C# Task\Furniture_Inheritance\bin\Debug\net6.0\Furniture_Inheritance.dll
+D:\Hexaware\Segue\3. C# Task\Furniture_Inheritance\bin\Debug\net6.0\Furniture_Inheritance.pdb
+D:\Hexaware\Segue\3. C# Task\Furniture_Inheritance\obj\Debug\net6.0\Furniture_Inheritance.dll
+D:\Hexaware\Segue\3. C# Task\Furniture_Inheritance\obj\Debug\net6.0\refint\Furniture_Inheritance.dll
+D:\Hexaware\Segue\3. C# Task\Furniture_Inheritance\obj\Debug\net6.0\Furniture_Inheritance.pdb
+D:\Hexaware\Segue\3. C# Task\Furniture_Inheritance\obj\Debug\net6.0\Furniture_Inheritance.genruntimeconfig.cache
+D:\Hexaware\Segue\3. C# Task\Furniture_Inheritance\obj\Debug\net6.0\ref\Furniture_Inheritance.dll
